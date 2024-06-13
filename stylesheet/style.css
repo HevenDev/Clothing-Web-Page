@@ -183,7 +183,7 @@ img {
 
 /*=============== HOME ===============*/
 .home_container{
-  height: 100%;
+  height: 100vh;
   padding-block: 9rem 2rem;
   display: grid;
   align-items: center;
